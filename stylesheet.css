@@ -1,0 +1,156 @@
+body {
+	min-height: 100vh;
+	background:  linear-gradient(#2b1055,#7597de);
+	position: left;
+}
+
+header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;	
+}
+
+header .logo{
+	color: #fff;
+	font-weight: 700;
+	text-decoration: none;
+	padding: 20px;
+    font-size: 2em;
+    text-transform: uppercase;
+	letter-spacing: 2px;
+}	
+header tr {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: left;
+}
+header tr td {
+	list-style: none;
+	margin-left: 20px;
+}
+header tr td a {
+	text-decoration: none;
+	padding: 7px 15px;
+	color: #fff;
+	border-radius: 23px;
+}
+header tr td a:hover {
+	background: #fff;
+	color: #2b1055;
+}
+
+.first h2  {
+	font-size: 3.5em;
+	color: #fff;
+}
+.first p {
+	font-size: 1.2e.;
+	color: #fff;
+}
+h1 {
+	color: white;
+	text-align: left;
+}
+h2 {
+	position: left;
+	text-align: justify;
+}
+h3 {
+	color: white;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 22px;
+}
+body {
+	background-image: 
+	background-repeat: repeat-y;
+}
+div-1, div-2, div-3, div-4, div-5, div-6{
+	border: 1px solid #ccc;
+	width: 60%;
+	height: 400px;
+	text-align: center;
+	float: left;
+}
+div-1 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+
+div-2 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+div-3 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+div-4 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+div-5 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+div-6 {
+	width: 99%;
+	height: 400px;
+	text-align: justify;
+	font-family: verdana;
+	color: white;
+}
+div-1 img {
+	width: 40%;
+	height: 400px;
+	float: left;
+}
+div-2 img {
+	width: 40%;
+	height: 400px;
+	float: right;
+}
+div-3 img {
+	width: 40%;
+	height: 400px;
+	float: left;
+}
+div-4 img {
+	width: 40%;
+	height: 400px;
+	float: right;
+}
+div-5 img {
+	width: 40%;
+	height: 400px;
+	float: left;
+}
+div-6 img {
+	width: 40%;
+	height: 400px;
+	float: right;
+}
+
+
+
